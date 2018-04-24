@@ -5,7 +5,7 @@ body {
   text-align: center;
 }
 .header {
-  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
+  background: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
   color: white;
   font-size: 18px;
 }
