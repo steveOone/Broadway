@@ -9,6 +9,10 @@ body {
   color: white;
   font-size: 18px;
 }
+.nav {
+  font-size: 18px;
+  color: white;
+}
 h1 {
   font-size: 70px;
   font-weight: bold;
